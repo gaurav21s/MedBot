@@ -91,7 +91,7 @@ def main():
     st.markdown(
         "@ Gaurav Shrivastav | "
         "Powered by PubMed, Hugging Face, and Streamlit | "
-        "[GitHub](https://github.com/yourusername/medical-research-assistant)"
+        "[GitHub](https://github.com/gaurav21s/MedBot.git)"
     )
 
 if __name__ == "__main__":
