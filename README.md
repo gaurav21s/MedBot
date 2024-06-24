@@ -15,8 +15,8 @@ PubMed Research Assistant is a tool that uses the PubMed database and language m
 
 1. Clone the repository:
 ```shell
-git clone https://github.com/yourusername/pubmed-research-assistant.git
-cd pubmed-research-assistant
+git clone [https://github.com/yourusername/pubmed-research-assistant.git](https://github.com/gaurav21s/MedBot.git)
+cd MedBot
 ```
 
 2. Create a virtual environment:
