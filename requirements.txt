@@ -1,0 +1,6 @@
+# requirements.txt
+pymed
+haystack-ai
+transformers
+python-dotenv
+streamlit

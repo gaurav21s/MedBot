@@ -1,0 +1,33 @@
+/* style.css */
+body {
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+.stButton > button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+.stButton > button:hover {
+    background-color: #85ab86;
+}
+
+.st-emotion-cache-1v0mbdj.e115fcil1 {
+    border-radius: 12px;
+    border: 1px solid #4CAF50;
+}
+
+.stAlert {
+    border-radius: 12px;
+}
